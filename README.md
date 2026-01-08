@@ -12,7 +12,7 @@
 # Workflow description 
 for FLIM quality metric visualization as a means to validate consistency across large-area non-homogeneous FLIM datasets, Wilson et al. 
 
-Imaging
+Imaging (acquistion related code not yet available)
 
 - With tissue on scope, generate xy grid in MicroManager with create grid MDA. Manually replace some xy points with added z-focused positions (to create xyz coordinates). Export position list .pos
 - Use interpolate-z-coords.py to to create xyz coordinate file (.csv)
